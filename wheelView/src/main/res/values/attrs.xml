@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WheelView">
+        <attr name="drawableWheel" format="reference" />
+        <attr name="drawablePointer" format="reference" />
+        <attr name="scalePointer" format="float" />
+        <attr name="rotateDegree" format="integer" />
+        <attr name="isClockwise" format="boolean" />
+        <attr name="delayEndTime" format="integer" />
+    </declare-styleable>
+</resources>
